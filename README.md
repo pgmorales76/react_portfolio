@@ -60,9 +60,9 @@ Estimate of time needed to complete: One hour
 
 Start time: Sunday, August 6, 2023 @ 9:00am EST
 
-Finish time:
+Finish time: Sunday, August 6, 2023 @ 9:40am EST
 
-Actual time needed to complete:
+Actual time needed to complete: Forty minutes
 
 ## Feature #3 Projects Section: As a user, I want to see previous projects that the developer has worked on, so that I can evaluate their skills
 
@@ -88,9 +88,9 @@ Estimate of time needed to complete: One hour
 
 Start time: Sunday, August 6, 2023 @ 10:00am EST
 
-Finish time:
+Finish time: Sunday, August 6, 2023 @ 10:50am EST
 
-Actual time needed to complete:
+Actual time needed to complete: Fifty minutes
 
 ## Feature #4 Skills and Experience Sections: As a user, I want to see at a glance the skills and experiences that the developer wants to showcase, so that I can trust they can do the job
 
@@ -116,9 +116,9 @@ Estimate of time needed to complete: One hour
 
 Start time: Sunday, August 6, 2023 @ 11:00am EST
 
-Finish time:
+Finish time: Sunday, August 6, 2023 @ 12:00pm EST
 
-Actual time needed to complete:
+Actual time needed to complete: Sixty minutes
 
 ## Feature #5 Personalize: As a user, I want the site to reflect the personal style and feel of the developer, so that I can distinguish them from the average dev
 
@@ -146,6 +146,6 @@ Estimate of time needed to complete: One hour
 
 Start time: Sunday, August 6, 2023 @ 12:00pm EST
 
-Finish time:
+Finish time: Sunday, August 6, 2023 @ 12:35pm EST
 
-Actual time needed to complete:
+Actual time needed to complete: Thirty-five minutes
