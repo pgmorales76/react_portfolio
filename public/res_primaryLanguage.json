@@ -40,13 +40,19 @@
       "startDate": "2022",
       "description": "This application displays three potential products side-by-side-by-side. The purpose of the application is to have users choose a product, of the three displayed images, that they would be most interested in seeing as a new creation. Each anonymous vote is stored, totals calculated, and the results are visually displayed. To keep the product selection process as untainted as possible, results aren't shown to users until there have been a total of 25 selections made.",
       "images": [
-        ""
+        "images/portfolio/odd_duck_homepage.png",
+        "images/portfolio/odd_duck_bottom_homepage.png",
+        "images/portfolio/odd_duck_results.png"
       ],
-      "url": "https://github.com",
+      "url": "https://pgmorales76.github.io/odd_duck/",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "devicon-html5-plain-wordmark",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain-wordmark",
+          "name": "CSS3"
         },
         {
           "class": "devicon-javascript-plain",
