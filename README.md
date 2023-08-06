@@ -118,6 +118,34 @@ Start time: Sunday, August 6, 2023 @ 11:00am EST
 
 Finish time:
 
-Actual time needed to complete: 
+Actual time needed to complete:
 
+## Feature #5 Personalize: As a user, I want the site to reflect the personal style and feel of the developer, so that I can distinguish them from the average dev
 
+### Feature #5 Description
+
+Add your personal touches to the site with new color choices and images where you see fit.
+
+### Feature #5 Checklist
+
+- Throughout the site, change the color scheme to reflect your personal preferences. Adjust the colors utilized to match a theme you like. Not sure what you like? [Explore some options](https://color.adobe.com/explore)!
+
+- Pick at least one section and replace the background color with a background image (or video!).
+
+- Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
+
+- STRETCH: Add another page to your portfolio (an "Articles" page perhaps, with links to what you've written online?). Include what's needed to React Router, and the Nav element.
+
+- Yes, deploy one last time and verify everything is working and looking good.
+
+### Feature #5 Time Estimate
+
+Number and name of feature: Feature #5 Personalize: As a user, I want the site to reflect the personal style and feel of the developer, so that I can distinguish them from the average dev
+
+Estimate of time needed to complete: One hour
+
+Start time: Sunday, August 6, 2023 @ 12:00pm EST
+
+Finish time:
+
+Actual time needed to complete:
