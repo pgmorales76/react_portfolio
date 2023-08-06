@@ -2,7 +2,7 @@
 
 [Netlify App](https://pgmreactportfolio.netlify.app/)
 
-## Feature #1 Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed
+## Feature #1: Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed
 
 ### Description
 
@@ -21,3 +21,15 @@ Publish the unmodified template code to Netlify.
 - Update the README a little. Include at least the URL to your live, deployed site.
 
 - Replace all instances (Edit > Find in Files) of "Ursula Lopez" with your name. Note that portfolio content is pulled from JSON source files in the `/public` folder. See how it works? Update just your name, then commit, push to GitHub, and publish your changes to Netlify to ensure your workflow is running smoothly.
+
+### Time Estimate
+
+Number and name of feature: Feature #1: Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed
+
+Estimate of time needed to complete: One hour
+
+Start time: Sunday, August 6, 2023 @ 8:00am EST
+
+Finish time: Sunday, August 6, 2023 @ 8:45am EST
+
+Actual time needed to complete: Forty-five minutes
