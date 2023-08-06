@@ -15,9 +15,9 @@
       "startDate": "2022",
       "description": "This application calculates the minimum number of customers per hour, the maximum number of customers per hour, and the average number of cookies purchased per customer. Additionally, this application includes a public-facing page with location information for the various stores.",
       "images": [
-        "public/images/portfolio/salmon_cookies/salmon_cookies_homepage.png",
-        "public/images/portfolio/salmon_cookies/salmon_cookies_sales_page.png",
-        "public/images/portfolio/salmon_cookies/salmon_cookies_locations_page.png"
+        "images/portfolio/salmon_cookies/salmon_cookies_homepage.png",
+        "images/portfolio/salmon_cookies/salmon_cookies_sales_page.png",
+        "images/portfolio/salmon_cookies/salmon_cookies_locations_page.png"
       ],
       "url": "https://pgmorales76.github.io/cookie_stand/",
       "technologies": [
@@ -40,9 +40,9 @@
       "startDate": "2022",
       "description": "This application displays three potential products side-by-side-by-side. The purpose of the application is to have users choose a product, of the three displayed images, that they would be most interested in seeing as a new creation. Each anonymous vote is stored, totals calculated, and the results are visually displayed. To keep the product selection process as untainted as possible, results aren't shown to users until there have been a total of 25 selections made.",
       "images": [
-        "public/images/portfolio/odd_duck/odd_duck_homepage.png",
-        "public/images/portfolio/odd_duck/odd_duck_bottom_homepage.png",
-        "public/images/portfolio/odd_duck/odd_duck_results.png"
+        "images/portfolio/odd_duck/odd_duck_homepage.png",
+        "images/portfolio/odd_duck/odd_duck_bottom_homepage.png",
+        "images/portfolio/odd_duck/odd_duck_results.png"
       ],
       "url": "https://pgmorales76.github.io/odd_duck/",
       "technologies": [
@@ -65,9 +65,9 @@
       "startDate": "2022",
       "description": "A memory game that focuses on selecting a pattern of colors decided by 'Simon'. This is a game that is very begginer friendly and also challenging for those who want to test their memory skills! At the start of each round, 'Simon' picks a pattern of colors starting at one and adding a new color to the aforemention pattern each time the player completes the sequence. The speed at which each color is added is also incremented (the higher the level, the faster the speed). Each correct color grants the player a point and each point is tallied until the play picks the wrong color. At game over, the player inputs their name and their score is recorded. The top 10 highest scores are recorded for all players to compete against!",
       "images": [
-        "public/images/portfolio/simon_says/simon_says_homepage.png",
-        "public/images/portfolio/simon_says/simon_says_leaderboard.png",
-        "public/images/portfolio/simon_says/simon_says_creators.png"
+        "images/portfolio/simon_says/simon_says_homepage.png",
+        "images/portfolio/simon_says/simon_says_leaderboard.png",
+        "images/portfolio/simon_says/simon_says_creators.png"
       ],
       "url": "https://gittbizzy.github.io/SimonSays/",
       "technologies": [
