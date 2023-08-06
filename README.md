@@ -2,7 +2,7 @@
 
 [Netlify App](https://pgmreactportfolio.netlify.app/)
 
-## Feature #1: Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed
+## Feature #1 Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed
 
 ### Description
 
@@ -24,7 +24,7 @@ Publish the unmodified template code to Netlify.
 
 ### Time Estimate
 
-Number and name of feature: Feature #1: Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed
+Number and name of feature: Feature #1 Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed
 
 Estimate of time needed to complete: One hour
 
@@ -34,7 +34,7 @@ Finish time: Sunday, August 6, 2023 @ 8:45am EST
 
 Actual time needed to complete: Forty-five minutes
 
-## Feature #2: About Me Page: As a user, I want to know all about the developer's professional history and values along with their personality
+## Feature #2 About Me Page: As a user, I want to know all about the developer's professional history and values along with their personality
 
 ### Description
 
@@ -54,12 +54,14 @@ Apply the following changes to your Profile, utilizing the info you collected as
 
 ### Time Estimate
 
-Number and name of feature: Feature #2: About Me Page: As a user, I want to know all about the developer's professional history and values along with their personality
+Number and name of feature: Feature #2 About Me Page: As a user, I want to know all about the developer's professional history and values along with their personality
 
 Estimate of time needed to complete: One hour
 
 Start time: Sunday, August 6, 2023 @ 9:00am EST
 
-Finish time: 
+Finish time:
 
 Actual time needed to complete:
+
+## Feature #3 
