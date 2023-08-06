@@ -48,7 +48,7 @@ Apply the following changes to your Profile, utilizing the info you collected as
 
 - Update the About Me text with a friendly greeting and your personal pitch.
 
-- Fix up the social media icons and their links as you like. At least swap out Facebook for LinkedIn, and ensure you are linking to your GitHub account. Add any others you like. 
+- Fix up the social media icons and their links as you like. At least swap out Facebook for LinkedIn, and ensure you are linking to your GitHub account. Add any others you like.
 
 - Deploy and verify everything is working and looking good.
 
