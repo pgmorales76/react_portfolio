@@ -1,3 +1,3 @@
-# React Portolio for Peter G. Morales
+# Modify this portfolio
 
-[Netlify App](https://pgmreactportfolio.netlify.app/)
+Make it your own! 
