@@ -36,12 +36,11 @@
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "Odd Duck",
+      "startDate": "2022",
+      "description": "This application displays three potential products side-by-side-by-side. The purpose of the application is to have users choose a product, of the three displayed images, that they would be most interested in seeing as a new creation. Each anonymous vote is stored, totals calculated, and the results are visually displayed. To keep the product selection process as untainted as possible, results aren't shown to users until there have been a total of 25 selections made.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        ""
       ],
       "url": "https://github.com",
       "technologies": [
