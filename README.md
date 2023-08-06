@@ -33,3 +33,33 @@ Start time: Sunday, August 6, 2023 @ 8:00am EST
 Finish time: Sunday, August 6, 2023 @ 8:45am EST
 
 Actual time needed to complete: Forty-five minutes
+
+## Feature #2: About Me Page: As a user, I want to know all about the developer's professional history and values along with their personality
+
+### Description
+
+Apply the following changes to your Profile, utilizing the info you collected as prework for this course:
+
+### Checklist
+
+- Add a personal headline directly under your name (as the "title" value) in the Header Component. This should be the same as or similar to your headline on your LinkedIn profile.
+
+- Replace the profile picture in the About Me page with your own.
+
+- Update the About Me text with a friendly greeting and your personal pitch.
+
+- Fix up the social media icons and their links as you like. At least swap out Facebook for LinkedIn, and ensure you are linking to your GitHub account. Add any others you like. 
+
+- Deploy and verify everything is working and looking good.
+
+### Time Estimate
+
+Number and name of feature: Feature #2: About Me Page: As a user, I want to know all about the developer's professional history and values along with their personality
+
+Estimate of time needed to complete: One hour
+
+Start time: Sunday, August 6, 2023 @ 9:00am EST
+
+Finish time: 
+
+Actual time needed to complete:
