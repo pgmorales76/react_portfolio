@@ -82,11 +82,11 @@ Customize the Projects components.
 
 ### Feature #3 Time Estimate
 
-Number and name of feature:
+Number and name of feature: Feature #3 Projects Section: As a user, I want to see previous projects that the developer has worked on, so that I can evaluate their skills
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: One hour
 
-Start time:
+Start time: Sunday, August 6, 2023 @ 10:00am EST
 
 Finish time:
 
