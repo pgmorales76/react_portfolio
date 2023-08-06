@@ -23,7 +23,7 @@
       "technologies": [
         {
           "class": "devicon-html5-plain-wordmark",
-          "name": "HTML 5"
+          "name": "HTML5"
         },
         {
           "class": "devicon-javascript-plain",
@@ -31,7 +31,7 @@
         },
         {
           "class": "devicon-css3-plain-wordmark",
-          "name": "CSS 3"
+          "name": "CSS3"
         }
       ]
     },
