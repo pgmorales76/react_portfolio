@@ -2,7 +2,7 @@
 
 [Netlify App](https://pgmreactportfolio.netlify.app/)
 
-## Feature 1. Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed
+## Feature #1 Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed
 
 ### Description
 
