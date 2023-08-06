@@ -43,7 +43,7 @@ class Footer extends Component {
                     window.$primaryLanguageIconId
                   )
                 }
-                style={{ display: "inline" }}
+                style={{ display: "none" }}
               >
                 <span
                   className="iconify language-icon"
