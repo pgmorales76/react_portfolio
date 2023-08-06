@@ -15,9 +15,9 @@
       "startDate": "2022",
       "description": "This application calculates the minimum number of customers per hour, the maximum number of customers per hour, and the average number of cookies purchased per customer. Additionally, this application includes a public-facing page with location information for the various stores.",
       "images": [
-        "images/portfolio/salmon_cookies_homepage.png",
-        "images/portfolio/salmon_cookies_sales_page.png",
-        "images/portfolio/salmon_cookies_locations_page.png"
+        "public/images/portfolio/salmon_cookies/salmon_cookies_homepage.png",
+        "public/images/portfolio/salmon_cookies/salmon_cookies_sales_page.png",
+        "public/images/portfolio/salmon_cookies/salmon_cookies_locations_page.png"
       ],
       "url": "https://pgmorales76.github.io/cookie_stand/",
       "technologies": [
