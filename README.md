@@ -91,3 +91,33 @@ Start time: Sunday, August 6, 2023 @ 10:00am EST
 Finish time:
 
 Actual time needed to complete:
+
+## Feature #4 Skills and Experience Sections: As a user, I want to see at a glance the skills and experiences that the developer wants to showcase, so that I can trust they can do the job
+
+### Feature #4 Description
+
+Redo the 'Skills' and 'Experience' sections, so that it represents you.
+
+### Feature #4 Checklist
+
+- Make the skill list show your technical skills that you most want to get hired for.
+
+- Include relevant tech terminology when describing your previous work experience.
+
+- Delete icons you aren't utilizing.
+
+- Deploy and verify everything is working and looking good.
+
+### Feature #4 Time Estimate
+
+Number and name of feature: Feature #4 Skills and Experience Sections: As a user, I want to see at a glance the skills and experiences that the developer wants to showcase, so that I can trust they can do the job
+
+Estimate of time needed to complete: One hour
+
+Start time: Sunday, August 6, 2023 @ 11:00am EST
+
+Finish time:
+
+Actual time needed to complete: 
+
+
