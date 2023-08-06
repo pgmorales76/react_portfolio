@@ -9,9 +9,9 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/peter-morales-/",
+          "class": "fab fa-linkedin-in"
         }
       ],
       "image": "peter_g_morales_profile_image.jpeg"
