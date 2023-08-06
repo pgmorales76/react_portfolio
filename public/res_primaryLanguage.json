@@ -15,22 +15,23 @@
       "startDate": "2022",
       "description": "This application calculates the minimum number of customers per hour, the maximum number of customers per hour, and the average number of cookies purchased per customer. Additionally, this application includes a public-facing page with location information for the various stores.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/salmon_cookies_homepage.png",
+        "images/portfolio/salmon_cookies_sales_page.png",
+        "images/portfolio/salmon_cookies_locations_page.png"
       ],
-      "url": "",
+      "url": "https://pgmorales76.github.io/cookie_stand/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-html5-plain-wordmark",
+          "name": "HTML 5"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-css3-plain-wordmark",
+          "name": "CSS 3"
         }
       ]
     },
