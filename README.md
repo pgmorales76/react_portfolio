@@ -4,13 +4,13 @@
 
 ## Feature #1 Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed
 
-### Description
+### Feature #1 Description
 
 The first thing you'll want to do is spin up a fresh portfolio site from a template, and push it live! This will let you confirm all your updates are working in production as you go, letting you fix problems sooner rather than later.
 
 Publish the unmodified template code to Netlify.
 
-### Checklist
+### Feature #1 Checklist
 
 - Create a new portfolio using this CRA template: [Starter React Portfolio Template](https://www.npmjs.com/package/cra-template-react-portfolio). Follow the documentation to get started.
 
@@ -22,7 +22,7 @@ Publish the unmodified template code to Netlify.
 
 - Replace all instances (Edit > Find in Files) of "Ursula Lopez" with your name. Note that portfolio content is pulled from JSON source files in the `/public` folder. See how it works? Update just your name, then commit, push to GitHub, and publish your changes to Netlify to ensure your workflow is running smoothly.
 
-### Time Estimate
+### Feature #1 Time Estimate
 
 Number and name of feature: Feature #1 Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed
 
@@ -40,7 +40,7 @@ Actual time needed to complete: Forty-five minutes
 
 Apply the following changes to your Profile, utilizing the info you collected as prework for this course:
 
-### Checklist
+### Feature #2 Checklist
 
 - Add a personal headline directly under your name (as the "title" value) in the Header Component. This should be the same as or similar to your headline on your LinkedIn profile.
 
@@ -52,7 +52,7 @@ Apply the following changes to your Profile, utilizing the info you collected as
 
 - Deploy and verify everything is working and looking good.
 
-### Time Estimate
+### Feature #2 Time Estimate
 
 Number and name of feature: Feature #2 About Me Page: As a user, I want to know all about the developer's professional history and values along with their personality
 
@@ -64,4 +64,30 @@ Finish time:
 
 Actual time needed to complete:
 
-## Feature #3 
+## Feature #3 Projects Section: As a user, I want to see previous projects that the developer has worked on, so that I can evaluate their skills
+
+### Feature #3 Description
+
+Customize the Projects components.
+
+### Feature #3 Checklist
+
+- Add information about your own projects that you want to highlight. One can be a placeholder for your final project.
+
+- Change out the photos for each project, so you are showing relevant screenshots or a group pic of the team that made the project. If you are using online images, make sure they are licensed for free, commercial use. For example, [Unsplash](https://unsplash.com/) has a nice variety of free images.
+
+- If you don't want multi-language support, go ahead now and remove the flags from the Footer. If you DO want to support an alternative language, add in the verbiage needed for your projects in both languages.
+
+- Deploy and verify everything is working and looking good.
+
+### Feature #3 Time Estimate
+
+Number and name of feature:
+
+Estimate of time needed to complete:
+
+Start time:
+
+Finish time:
+
+Actual time needed to complete:
